@@ -13,6 +13,7 @@ public class GitHubGroup {
 
    public static void Hi(){
        System.out.println("Hello World");
+       System.out.println("Why this no work");
    }
     public static void main(String[] args) {
         // TODO code application logic here
